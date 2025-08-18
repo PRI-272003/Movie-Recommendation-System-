@@ -1,5 +1,6 @@
 Movie Recommendation System using NLP & Machine Learning
-🔎 Problem Statement
+  🔎 Problem Statement
+
 
 In the era of online streaming platforms, users are often overwhelmed by the vast number of movies available. To solve this problem, a recommendation engine was developed that suggests movies to users based on similarity with their preferences. 
 The system leverages Natural Language Processing (NLP) and Machine Learning algorithms to analyze movie descriptions, genres, and metadata, thereby providing personalized recommendations.
